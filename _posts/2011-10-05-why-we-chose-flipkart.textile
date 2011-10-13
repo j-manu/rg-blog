@@ -1,0 +1,37 @@
+---
+  layout: post
+  title: Why We Chose Flipkart
+---
+
+h1. {{page.title}}
+
+When we ("ReviewGang":http://www.reviewgang.com & "Wogma":http://wogma.com) came up with the idea of "Reel-Life Bloggers Contest":http://www.reviewgang.com/reel-life-bloggers-contest, an obvious part of the deal was coming up with a interesting and attractive prizes for winners. Since this whole contest is around movies, we wanted to do something in this space. So we came up with options like 5 DVDs of winner's choice, Movie/TV Show Collectors Boxed Set, DVD's of blogger's choice and asked them to suggest alternatives. We also decided to keep online gift vouchers as a standby option - we were unsure if it makes an attractive prize at all. 
+
+To gauge public perception, we did a quick survey among movie lovers, friends and colleagues to see which option would make for an attractive prize. We were stumped to see almost everyone wanted a Flipkart coupon!  It surprised us but, in hindsight, should not have.  Flipkart has been my "go to" place for buying books online since 2009. Lately it has become the first place I check for other product categories too. So much so,  that at times I have even delayed my purchases hoping that flipkart will include that category in the future.
+
+When I think about the space that ReviewGang is in - it seems incredibly crowded with fairly powerful players. But so it was for Flipkart, even when it started off.  Flipkart emerged successful despite of ecommerce being a crowded space with lot of powerful players like Rediff, IndiaTimes, Futurebazaar etc. So I started looking at what Flipkart did to outdo competition. 
+
+h4. Here is what I think Flipkart did right
+
+* Focused on user experience: Every other ecommerce site, tried to cram the maximum of amount of information possible into every single page where as flipkart focused on providing only the relevant info. The uncluttered UI is one of the big reasons I prefer flipkart over its competitors
+
+* A working search: This seems very simple to get right but it is not. I've had trouble finding books which I knew existed on infibeam. 
+
+* Wide availability: the first time I used flipkart was to get a book which at that point of time was not yet released in India. This is still flipkart's biggest strength. 
+
+* Taking it slow and steady: flipkart started with only books but executed it perfectly. They got the customer service, logistics and user experience part all ironed out and only then over into other categories. Also they have been introducing 
+Categories slowly making sure each is able to satisfy customer. 
+
+Compare this with "everything but the kitchen sink" approach that other like infibeam took. Countless times i have been disappointed with the variety that infibeam offers in a particular category. That has rarely happened with flipkart (notable exception: lenses)
+
+h4. What I think ReviewGang could do
+
+* User experience: I think reviewgang has done a decent job in this department (even if I say so myself :D). Of course it does not mean there is nothing to improve. It is a constant process of thinking, tweaking and moving towards perfection :)
+
+* Search: hmmm.  We’re just about ok here. Every web app worth it's salt should have An excellent search experience. Reviewgang has a long way to go and improving search is a top priority. 
+
+* Wide availability. Unfortunately due to resource constraints,  only Bollywood movies are being currently featured.  This is unlikely to change soon (unless you all make reviewgang a huge success!! Spread the word guys :) ) 
+
+So, here's hoping that reviewgang will be as popular and as loved as flipkart soon :) no effort is being spared to achieve that goal! 
+
+Would be fantastic to hear more on what could be done better at reviewgang from you guys. Am all ears when it comes to critics! Remember, I run a review site!! :D  

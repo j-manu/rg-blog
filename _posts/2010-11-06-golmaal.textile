@@ -1,0 +1,27 @@
+---
+ layout: post
+ title: Golmaal 3 - Hype & Lies
+---
+
+h1. {{ page.title }}
+
+"Golmaal 3":http://www.reviewgang.com/movies/95-Golmaal-3-Review is being hyped as the  '"First Indian Trilogy":http://www.bollywoodhungama.com/movies/review/14230/index.html'. It is a complete lie. It maybe the first bollywood trilogy but it is certainly not the first "Indian Trilogy".  I know of at leasttwothree malayalam trilogies and other languages may have had other trilogies. (If you know of any please leave a comment) The trilogies in Malayalam areh4. CBI Diary Kurippu Series
+
+*  "Oru CBI Diary Kurippu":http://en.wikipedia.org/wiki/Oru_CBI_Diary_Kurippu
+*  "Jagratha":http://en.wikipedia.org/wiki/Jagratha
+*  "Sethurama Iyer CBI":http://en.wikipedia.org/wiki/Sethurama_Iyer_CBI
+*  "Nerariyan CBI":http://en.wikipedia.org/wiki/Nerariyan_CBI
+
+h4. In Harihar Nagar Series
+
+*  "In Harihar Nagar":http://en.wikipedia.org/wiki/In_Harihar_Nagar
+*  "2 Harihar Nagar":http://en.wikipedia.org/wiki/2_Harihar_Nagar
+*  "In Ghost House Inn":http://en.wikipedia.org/wiki/In_Ghost_House_Inn
+
+h4. Nadodikattu Series
+
+*  "Nadodikkattu":http://en.wikipedia.org/wiki/Nadodikkattu
+*  "Pattanapravesham":http://en.wikipedia.org/wiki/Pattanapravesham
+*  "Akkare Akkare Akkare":http://en.wikipedia.org/wiki/Akkare_Akkare_Akkare
+
+EDIT: More Trilogies "Apu Trilogy":http://en.wikipedia.org/wiki/The_Apu_Trilogy in Bengali (via "gobbledyspook":http://twitter.com/#!/gobbledyspook/status/951369800359937 )
