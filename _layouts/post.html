@@ -15,3 +15,6 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+{% capture post_url %}{{ page.url | prepend:'http://www.reviewgang.com/blog' | append:'/' }}{% endcapture %}
+<div class="fb-comments" data-href="{{post_url}}" data-num-posts="10" data-width="550"></div>
+
