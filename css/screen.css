@@ -200,10 +200,14 @@ ul.posts {
   margin-top: 2em;
 }
 
-  #related h2 {
-    margin-bottom: 1em;
-  }
+#related h2 {
+  margin-bottom: 1em;
+}
 
-  .footnote {
-    color: #888888;
-  }
+.footnote {
+  color: #888888;
+}
+
+ul.content img {
+  display: block;
+}
